@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Hind';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/hind/v15/5aU69_a8oxmIdGl4AQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+}
